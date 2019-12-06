@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.info{
+    padding: 20px;
+    font-weight: bold;
+    border: solid 30px green;
+}
+
+a{
+    color: white;
+    background-color: black;
+}
+
+a:hover{
+    color: balck;
+    background-color: white;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+}
